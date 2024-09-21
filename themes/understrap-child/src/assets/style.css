@@ -1,0 +1,25 @@
+#real-estate-filter {
+	margin-bottom: 20px;
+}
+
+#real-estate-filter-form {
+	margin-bottom: 20px;
+}
+
+#real-estate-results ul {
+	list-style: none;
+	padding: 0;
+}
+
+#real-estate-results li {
+	margin-bottom: 15px;
+}
+
+#real-estate-results img {
+	max-width: 100px;
+	margin-right: 10px;
+}
+
+.pagination {
+	margin-top: 20px;
+}

@@ -1,0 +1,6 @@
+uploads
+upgrade
+plugins/*
+!plugins/real-estate-plugin
+themes/*
+!themes/understrap-child/
